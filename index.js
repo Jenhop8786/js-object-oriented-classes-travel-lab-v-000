@@ -1,6 +1,3 @@
-let eastWest= ['1st Avenue', '2nd Avenue', '3rd Avenue', 'Lexington Avenue', 'Park', 'Madison Avenue', '5th Avenue', '6th Avenue', '7th Avenue','8th Avenue','9th Avenue','10th Avenue']
-
-
 class Driver {
    constructor(name, startDate) {
      this.name = name
@@ -12,6 +9,7 @@ class Driver {
    }
 }
 
+let eastWest= ['1st Avenue', '2nd Avenue', '3rd Avenue', 'Lexington Avenue', 'Park', 'Madison Avenue', '5th Avenue', '6th Avenue', '7th Avenue','8th Avenue','9th Avenue','10th Avenue']
 
 class Route {
   constructor(beginningLocation,endingLocation){
