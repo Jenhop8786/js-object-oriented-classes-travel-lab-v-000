@@ -8,7 +8,7 @@ class Driver {
     return year - this.startDate.getFullYear();
   };
 };
-}
+
 
 let eastWest= ['1st Avenue', '2nd Avenue', '3rd Avenue', 'Lexington Avenue', 'Park', 'Madison Avenue', '5th Avenue', '6th Avenue', '7th Avenue','8th Avenue','9th Avenue','10th Avenue']
 
